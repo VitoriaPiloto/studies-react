@@ -6,7 +6,7 @@ Estudos React
 
 <h3> 
 
-Repositório criado para armazenar todos os os meus projetos React enquanto eu estudo e avanço. Veja minhas anotações e meus estudos [aqui](https://www.noteboardapp.com/shareBoard?tokenShare=43cfd76de3f21f07bfb7f3a70f53520e). 
+Repositório criado para armazenar todos os os meus projetos React enquanto eu estudo e avanço.
 
 <h3>
 
