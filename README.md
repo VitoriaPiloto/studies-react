@@ -15,23 +15,28 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 </p>
 <hr>
 
-# Índice:
+<h1> Índice </h1>
+<ol>
+   <li><a href="#projetos">Projetos</a></li>
+   <li><a href="#prints">Prints</a></li>
+   <li><a href="#cursos">Cursos</a></li>
+</ol>
+
+<h1 id="projetos"> Projetos: </h1>
 
 <h3>
 
 1. [Fatos Divertidos Sobre o React](https://subtle-cupcake-3362aa.netlify.app/)   
 
 </h3>   
-
-<br>
-
-<img src="https://www.imagemhost.com.br/images/2023/03/10/chrome-capture-2023-2-10-2.png" width="60%">
-   
+ 
 <ul>
+   <li><a href="#curiosidade">Print do projeto</a></li>
    <li>Conceitos utilizados</li>
       <ul>
          <li> Componentização </li>
          <li> Revisão Vanilla JS </li>
+         <li> Estilização </li>
       </ul>
 </ul>
   
@@ -43,16 +48,30 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 </h3>
 
-<br>
-   
-<img src="https://www.imagemhost.com.br/images/2023/03/11/chrome-capture-2023-2-11-1.png" width="60%">
-
-<ul>   
-   <li>Conceitos utilizados</li>
+<ul>
+   <li><a href="#airbnb">Print do projeto</a></li>
+   <li>Conceitos aprendidos</li>
    <ul>      
       <li> Utilização de props </li>  
-      <li> Map em componentes </li>         
+      <li> Uso do Map em componentes </li>
+      <li> Estilização </li>
    </ul>      
 </ul>
 
 <hr/>
+
+<h1 id="prints"> Prints </h1> 
+
+<img src="https://www.imagemhost.com.br/images/2023/03/10/chrome-capture-2023-2-10-2.png" width="60%" id="curiosidade">
+
+<hr>
+
+<img src="https://www.imagemhost.com.br/images/2023/03/11/chrome-capture-2023-2-11-1.png" width="60%" id="airbnb">
+
+<hr>
+
+<h1 id="cursos"> Cursos </h1> 
+<ul>
+   <li><a href="https://scrimba.com/learn/learnreact">Scrimba</a></li>
+   <li><a href="https://st.devsamurai.com.br/8zs2xdqd/index.html?utm_source=&utm_medium=cpc&utm_campaign=18060134806&utm_content=616654968648&xpromo=gl-616654968648&utm_term=140407640619&gclid=Cj0KCQiA6rCgBhDVARIsAK1kGPJLFR3HKhc80GUY7iEGolQbN5O40yNJsFxuaWtdhD-hmfviK3whpo8aAt6aEALw_wcB">Dev Samurai</a></li>
+</ul>
