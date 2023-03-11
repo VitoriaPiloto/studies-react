@@ -32,7 +32,7 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
  
 <ul>
    <li><a href="#curiosidade">Print do projeto</a></li>
-   <li>Conceitos utilizados</li>
+   <li>Conceitos aprendidos: </li>
       <ul>
          <li> Componentização </li>
          <li> Revisão Vanilla JS </li>
@@ -50,7 +50,7 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <ul>
    <li><a href="#airbnb">Print do projeto</a></li>
-   <li>Conceitos aprendidos</li>
+   <li>Conceitos aprendidos: </li>
    <ul>      
       <li> Utilização de props </li>  
       <li> Uso do Map em componentes </li>
