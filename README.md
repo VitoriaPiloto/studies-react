@@ -52,6 +52,28 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
    <li><a href="#airbnb">Print do projeto</a></li>
    <li>Conceitos aprendidos: </li>
    <ul>      
+      <li> Componentização </li>  
+      <li> Utilização de props </li>  
+      <li> Uso do Map em componentes </li>
+      <li> Uso de dados em um objeto de arrays </li>
+      <li> Estilização </li>
+   </ul>      
+</ul>
+
+<hr/>
+
+<h3>
+
+3. Diário de Viagem
+
+</h3>
+
+<ul>
+   <li> Baseado no Solo Project sugerido pelo Scrimba para consolidar os conteúdos aprendidos anteriormente</li>
+   <li><a href="#diario">Print do projeto</a></li>
+   <li>Conceitos utilizados: </li>
+   <ul>    
+      <li> Componentização </li>  
       <li> Utilização de props </li>  
       <li> Uso do Map em componentes </li>
       <li> Uso de dados em um objeto de arrays </li>
@@ -68,6 +90,10 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 <hr>
 
 <img src="https://www.imagemhost.com.br/images/2023/03/11/chrome-capture-2023-2-11-1.png" width="60%" id="airbnb">
+
+<hr>
+
+<img src="https://www.imagemhost.com.br/images/2023/03/12/chrome-capture-2023-2-11-2.png" width="60%" id="diario">
 
 <hr>
 
