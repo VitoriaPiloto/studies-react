@@ -113,7 +113,7 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <ul>
    <li> Baseado no primeiro projeto estático, porém usando agora os novos conceitos aprendidos</li>
-   <li><a href="#gifMode">Gif do projeto</a></li>
+   <li><a href="#gifmode">Gif do projeto</a></li>
    <li>Conceitos utilizados: </li>
    <ul>    
       <li> Componentização </li>  
@@ -121,6 +121,29 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
       <li> Uso do use State e set State </li>
       <li> Estilização </li>
    </ul>
+</ul>
+
+<hr/>
+
+<h3>
+
+5. Editor de Markdown -- Notes
+
+</h3>
+
+<ul>
+   <li> Adição de implementações: apagar nota, mudar a ordem das notas conforme haja mudança no arquivo, utilizar o localStorage do navegador para salvar as mudanças a cada atualização de página e setar a primeira linha da nota como o título do projeto </li>
+   <li><a href="#gifnote">Gif do projeto</a></li>
+   <li>Conceitos utilizados: </li>
+   <ul>    
+      <li> localStorage: set e get </li>  
+      <li> Use State e Set State </li>  
+      <li> Passagem de props com parâmetros, usando arrow function </li>
+      <li> Uso do método filter para criar um novo array com certas condições </li>
+      <li> Aprendizado de como adicionar implementações em código já existente, de forma que foram dadas dicas no curso para fazer da melhor forma </li>
+      <li> Uso do método split() para criar um novo array com os itens que antes eram divididos por um caracter </li>      
+   </ul>
+   <li> Dificuldade: <br/> Erro no spread operator na hora de rodar o <i>npm run build</i> </li>
 </ul>
 
 <hr/>
@@ -143,7 +166,13 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <hr>
 
-<img src="gifDarkMode.gif" width="60%" id="gifMode">
+<img src="gifDarkMode.gif" width="60%" id="gifmode">
+
+<hr>
+
+<hr>
+
+<img src="printMDNotes.gif" width="60%" id="gifnote">
 
 <hr>
 
