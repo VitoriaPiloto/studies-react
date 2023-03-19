@@ -79,7 +79,7 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
       <li> Uso de dados em um objeto de arrays </li>
       <li> Estilização </li>
    </ul>
-   <li> Dificuldade: <br/> Buildar e dar deploy no projeto por conta das dependências do Babel utilizado no curso do Scrimba (não consegui) </li>
+   <li> Dificuldade: <br/> Buildar e dar deploy no projeto por conta das dependências do Babel utilizado no curso do Scrimba (não consegui) e por conta de um erro que não consegui resolver no spread operator </li>
 </ul>
 
 <hr/>
@@ -100,7 +100,7 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
       <li> Uso de formulários em React </li>
       <li> Exibição de componentes condicionalp </li>
    </ul>      
-   <li> Dificuldade: <br/> Buildar e dar deploy no projeto por conta das dependências do Babel utilizado no curso do Scrimba (não consegui) </li>
+   <li> Dificuldade: <br/> Buildar e dar deploy no projeto por conta das dependências do Babel utilizado no curso do Scrimba (não consegui) e por conta de um erro que não consegui resolver no spread operator </li>
 </ul>
 
 <hr/>
