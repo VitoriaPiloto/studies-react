@@ -105,6 +105,26 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <hr/>
 
+<h3>
+
+5. Fatos Divertidos Sobre o React -- Toggle Dark Mode
+
+</h3>
+
+<ul>
+   <li> Baseado no primeiro projeto estático, porém usando agora os novos conceitos aprendidos</li>
+   <li><a href="#gifMode">Gif do projeto</a></li>
+   <li>Conceitos utilizados: </li>
+   <ul>    
+      <li> Componentização </li>  
+      <li> Utilização de props </li>  
+      <li> Uso do use State e set State </li>
+      <li> Estilização </li>
+   </ul>
+</ul>
+
+<hr/>
+
 <h1 id="prints"> Prints </h1> 
 
 <img src="https://www.imagemhost.com.br/images/2023/03/10/chrome-capture-2023-2-10-2.png" width="60%" id="curiosidade">
@@ -120,6 +140,10 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 <hr>
 
 <img src="print.png" width="60%" id="memes">
+
+<hr>
+
+<img src="gifDarkMode.gif" width="60%" id="gifMode">
 
 <hr>
 
