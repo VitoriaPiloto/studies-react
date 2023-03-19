@@ -78,7 +78,29 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
       <li> Uso do Map em componentes </li>
       <li> Uso de dados em um objeto de arrays </li>
       <li> Estilização </li>
+   </ul>
+   <li> Dificuldade: <br/> Buildar e dar deploy no projeto por conta das dependências do Babel utilizado no curso do Scrimba (não consegui) </li>
+</ul>
+
+<hr/>
+
+<h3>
+
+4. Gerador de memes
+
+</h3>
+
+<ul>
+   <li><a href="#memes">Print do projeto</a></li>
+   <li>Conceitos utilizados: </li>
+   <ul>    
+      <li> utilização do useState e setState </li>  
+      <li> Utilização do useEffects para utilizar a API </li>  
+      <li> Consumo de API pelo método fetch </li>
+      <li> Uso de formulários em React </li>
+      <li> Exibição de componentes condicionalp </li>
    </ul>      
+   <li> Dificuldade: <br/> Buildar e dar deploy no projeto por conta das dependências do Babel utilizado no curso do Scrimba (não consegui) </li>
 </ul>
 
 <hr/>
@@ -94,6 +116,10 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 <hr>
 
 <img src="https://www.imagemhost.com.br/images/2023/03/12/chrome-capture-2023-2-11-2.png" width="60%" id="diario">
+
+<hr>
+
+<img src="print.png" width="60%" id="memes">
 
 <hr>
 
