@@ -167,6 +167,12 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
       <li> Renderização condicional de componentes </li>      
       <li> Estilização condicional </li>      
    <li> Dificuldade: <br/> Erro no spread operator na hora de rodar o <i>npm run build</i> </li>
+   <li>Futuras features: </li>
+   <ul>
+      <li>Contar o tempo de jogo</li>
+      <li>Contar o número de rolagens</li>
+      <li>Salvar em local storage e mostrar na tela</li>
+   </ul>
 </ul>
 
 <hr/>
