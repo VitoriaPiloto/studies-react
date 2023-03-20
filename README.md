@@ -148,6 +148,29 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <hr/>
 
+<h3>
+
+6. Tenzies Game
+
+</h3>
+
+<ul>
+   <li> Projeto final do curso de React  gratuito do Scriba </li>
+   <li><a href="#tenzie">Gif do projeto</a></li>
+   <li>Conceitos utilizados: </li>
+   <ul>    
+      <li> Use State e Set State </li>  
+      <li> Uso do map em objects </li>
+      <li> Uso da dependência Confetti para cair confetes assim que o usuário ganha </li>
+      <li> Uso da dependência nanoId para criar id's automaticamente </li>
+      <li> Uso do método random() para gerar números aleatórios </li>
+      <li> Renderização condicional de componentes </li>      
+      <li> Estilização condicional </li>      
+   <li> Dificuldade: <br/> Erro no spread operator na hora de rodar o <i>npm run build</i> </li>
+</ul>
+
+<hr/>
+
 <h1 id="prints"> Prints </h1> 
 
 <img src="https://www.imagemhost.com.br/images/2023/03/10/chrome-capture-2023-2-10-2.png" width="60%" id="curiosidade">
@@ -173,6 +196,10 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 <hr>
 
 <img src="printMDNotes.gif" width="60%" id="gifnote">
+
+<hr>
+
+<img src="tenzies.gif" width="60%" id="tenzie">
 
 <hr>
 
