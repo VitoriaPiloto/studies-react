@@ -165,7 +165,8 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
       <li> Uso da dependência nanoId para criar id's automaticamente </li>
       <li> Uso do método random() para gerar números aleatórios </li>
       <li> Renderização condicional de componentes </li>      
-      <li> Estilização condicional </li>      
+      <li> Estilização condicional </li>  
+   </ul>
    <li> Dificuldade: <br/> Erro no spread operator na hora de rodar o <i>npm run build</i> </li>
    <li>Futuras features: </li>
    <ul>
