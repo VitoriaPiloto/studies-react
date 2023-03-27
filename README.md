@@ -178,6 +178,32 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <hr/>
 
+
+<h3>
+
+7. [Timer](https://timerreact.vitoriapiloto.repl.co/)
+
+</h3>
+
+<ul>
+   <li> Projeto feito para revisar conceitos </li>
+   <li><a href="#timer">Gif do projeto</a></li>
+   <li>Conceitos utilizados: </li>
+   <ul>    
+      <li> Use State e Set State </li>  
+      <li> Use effect </li>
+      <li> Uso do método padStart() para definir o formato da String </li>
+      <li> Uso do método setInterval() para rodar o código várias vezes </li>      
+   </ul>
+   <li> Dificuldade: <br/> Mostrar na primeira renderização da página um alert e no final da contagem, outro alert </li>
+   <li>Futuras features: </li>
+   <ul>
+      <li>Som ao terminar a contagem</li>
+   </ul>
+</ul>
+
+<hr/>
+
 <h1 id="prints"> Prints </h1> 
 
 <img src="https://www.imagemhost.com.br/images/2023/03/10/chrome-capture-2023-2-10-2.png" width="60%" id="curiosidade">
@@ -207,6 +233,12 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 <hr>
 
 <img src="tenzies.gif" width="60%" id="tenzie">
+
+<hr>
+
+<hr>
+
+<img src="./Timer/timerGif.gif" width="60%" id="timer">
 
 <hr>
 
