@@ -204,6 +204,26 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <hr/>
 
+<h3>
+
+7. [Speed Text Game](https://textspeed.vitoriapiloto.repl.co/)
+
+</h3>
+
+<ul>
+   <li> Projeto utilizando hooks personalizados, useRef, useEffect e useState </li>
+   <li><a href="#speed">Gif do projeto</a></li>
+   <li>Conceitos utilizados: </li>
+   <ul>    
+      <li> Use State e Set State </li>
+      <li> Use Ref </li>  
+      <li> Use effect </li>
+      <li> Hooks personalizados </li>
+   </ul>
+</ul>
+
+<hr/>
+
 <h1 id="prints"> Prints </h1> 
 
 <img src="https://www.imagemhost.com.br/images/2023/03/10/chrome-capture-2023-2-10-2.png" width="60%" id="curiosidade">
@@ -239,6 +259,10 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 <hr>
 
 <img src="./Timer/timerGif.gif" width="60%" id="timer">
+
+<hr>
+
+<img src="./Speed-Text-Game/speedText.gif" width="60%" id="speed">
 
 <hr>
 
