@@ -206,7 +206,7 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <h3>
 
-7. [Speed Text Game](https://textspeed.vitoriapiloto.repl.co/)
+8. [Speed Text Game](https://textspeed.vitoriapiloto.repl.co/)
 
 </h3>
 
@@ -262,7 +262,7 @@ Repositório criado para armazenar todos os os meus projetos React enquanto eu e
 
 <hr>
 
-<img src="./Speed-Text-Game/speedText.gif" width="60%" id="speed">
+<img src="./Speed Text Game/speedText.gif" width="60%" id="speed">
 
 <hr>
 
