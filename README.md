@@ -6,7 +6,7 @@ Estudos React
 
 <h3> 
 
-Repositório criado para armazenar todos os os meus projetos React enquanto eu estudo e avanço. O link no título do projeto leva ao deploy do Netlify.
+Repositório criado para armazenar todos os os meus projetos React enquanto eu estudo e avanço. O link no título do projeto leva ao deploy dos projetos.
 
 <h3>
 
